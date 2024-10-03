@@ -1,6 +1,2 @@
-Sample App
+Here's the app: http://169.51.34.56:30944/time
 
-Sample Python Flask application to showcase the steps of building and running a web server with Docker.
-
-Docker: https://www.docker.com/
-Flask documentation: https://flask.palletsprojects.com/en/1.1.x/
